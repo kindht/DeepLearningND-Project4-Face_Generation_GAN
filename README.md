@@ -2,4 +2,4 @@
 
 This is the 4th project in the course of Deep Learning at Udacity
 
-The project leveraged GAN (Generative Adversarial Nets) to generate new face images 
+The project implemented GAN (Generative Adversarial Nets) to generate new face images 
