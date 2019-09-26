@@ -9,7 +9,7 @@
 
 This is the 4th project for the **Deep Learning** Nanodegree program at [Udacity](https://cn.udacity.com/course/deep-learning-nanodegree--nd101-cn-advanced)
 
-The project built **GANs** (one Generator model and one Discriminator model) using **TensorFLow** and trained the models using **MNIST/CelebA** datasets to generate images showing **hand-written digits/human faces**
+The project built **GANs** (one Generator model and one Discriminator model) using **TensorFlow** and trained the models using **MNIST/CelebA** datasets to generate images showing **hand-written digits/human faces**
 
 
 Here is the project file [Face_Generation_GAN-zh.ipynb](Face_Generation_GAN-zh.ipynb)   
